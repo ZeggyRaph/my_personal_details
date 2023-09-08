@@ -22,16 +22,21 @@ Make sure you have Flutter installed on your system. If you haven't already, fol
 
 Navigate to the project directory and run the following command to fetch the project's dependencies:
 
-flutter pub get
-4. **Add Slack Profile Picture:**
+   ```bash
+   flutter pub get
+      
 
+4. **Add Slack Profile Picture:**
 Place your Slack profile picture image in the assets folder of the project and update the image path in the code accordingly.
 
 5. **Run the App:**
 
 Use your preferred development environment (Android Studio, VS Code, or the command line) to run the app on an emulator or physical device:
 
-flutter run
+  ```bash
+  flutter run
+
+
 6. **Interact with the App:**
 
 Open the app on your device and you should see your Slack name, profile picture, and an "Open GitHub" button. Press the button to view your GitHub profile within the app using the WebView component.
