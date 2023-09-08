@@ -2,6 +2,9 @@
 
 Welcome to the Slack and GitHub mobile app! This app allows you to view your Slack identity and open your GitHub profile within the app.
 
+## Appetize.io link:
+ https://appetize.io/app/2zaize5erbo76wvogucugmx3aq?device=pixel4&osVersion=11.0&scale=75 
+
 ## Setup Instructions
 
 Follow these steps to set up and run the project on your local machine:
